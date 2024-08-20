@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\bin\Debug\net6.0\array_list trong c#.exe
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\bin\Debug\net6.0\array_list trong c#.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\bin\Debug\net6.0\array_list trong c#.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\bin\Debug\net6.0\array_list trong c#.dll
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\bin\Debug\net6.0\array_list trong c#.pdb
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.dll
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\refint\array_list trong c#.dll
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.pdb
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\array_list trong c#.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\array_list trong c#\array_list trong c#\obj\Debug\net6.0\ref\array_list trong c#.dll

@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\bien\bien\bin\Debug\net6.0\bien.exe
+D:\Source code\visual studio\c#\bien\bien\bin\Debug\net6.0\bien.deps.json
+D:\Source code\visual studio\c#\bien\bien\bin\Debug\net6.0\bien.runtimeconfig.json
+D:\Source code\visual studio\c#\bien\bien\bin\Debug\net6.0\bien.dll
+D:\Source code\visual studio\c#\bien\bien\bin\Debug\net6.0\bien.pdb
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.AssemblyInfo.cs
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.dll
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\refint\bien.dll
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.pdb
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\bien.genruntimeconfig.cache
+D:\Source code\visual studio\c#\bien\bien\obj\Debug\net6.0\ref\bien.dll

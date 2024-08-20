@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\lớp-string\lớp-string\bin\Debug\net6.0\lớp-string.exe
+D:\Source code\visual studio\c#\lớp-string\lớp-string\bin\Debug\net6.0\lớp-string.deps.json
+D:\Source code\visual studio\c#\lớp-string\lớp-string\bin\Debug\net6.0\lớp-string.runtimeconfig.json
+D:\Source code\visual studio\c#\lớp-string\lớp-string\bin\Debug\net6.0\lớp-string.dll
+D:\Source code\visual studio\c#\lớp-string\lớp-string\bin\Debug\net6.0\lớp-string.pdb
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.AssemblyInfo.cs
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.dll
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\refint\lớp-string.dll
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.pdb
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\lớp-string.genruntimeconfig.cache
+D:\Source code\visual studio\c#\lớp-string\lớp-string\obj\Debug\net6.0\ref\lớp-string.dll

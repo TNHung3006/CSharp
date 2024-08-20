@@ -1,0 +1,28 @@
+D:\Source code\visual studio\c#\hàm\hàm\bin\Debug\net6.0\hàm.exe
+D:\Source code\visual studio\c#\hàm\hàm\bin\Debug\net6.0\hàm.deps.json
+D:\Source code\visual studio\c#\hàm\hàm\bin\Debug\net6.0\hàm.runtimeconfig.json
+D:\Source code\visual studio\c#\hàm\hàm\bin\Debug\net6.0\hàm.dll
+D:\Source code\visual studio\c#\hàm\hàm\bin\Debug\net6.0\hàm.pdb
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.AssemblyInfo.cs
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.dll
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\refint\hàm.dll
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.pdb
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\hàm.genruntimeconfig.cache
+D:\Source code\visual studio\c#\hàm\hàm\obj\Debug\net6.0\ref\hàm.dll
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\bin\Debug\net6.0\hàm.exe
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\bin\Debug\net6.0\hàm.deps.json
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\bin\Debug\net6.0\hàm.runtimeconfig.json
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\bin\Debug\net6.0\hàm.dll
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\bin\Debug\net6.0\hàm.pdb
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.dll
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\refint\hàm.dll
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.pdb
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\hàm.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# cơ bản\hàm\hàm\obj\Debug\net6.0\ref\hàm.dll

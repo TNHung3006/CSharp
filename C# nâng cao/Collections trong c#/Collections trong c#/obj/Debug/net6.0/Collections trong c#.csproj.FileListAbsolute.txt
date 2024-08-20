@@ -1,0 +1,4 @@
+D:\Source code\visual studio\c#\C# nâng cao\Collections trong c#\Collections trong c#\obj\Debug\net6.0\Collections trong c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Collections trong c#\Collections trong c#\obj\Debug\net6.0\Collections trong c#.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Collections trong c#\Collections trong c#\obj\Debug\net6.0\Collections trong c#.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Collections trong c#\Collections trong c#\obj\Debug\net6.0\Collections trong c#.csproj.CoreCompileInputs.cache

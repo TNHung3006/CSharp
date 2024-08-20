@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\bin\Debug\net6.0\từ khoá static trong oop.exe
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\bin\Debug\net6.0\từ khoá static trong oop.deps.json
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\bin\Debug\net6.0\từ khoá static trong oop.runtimeconfig.json
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\bin\Debug\net6.0\từ khoá static trong oop.dll
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\bin\Debug\net6.0\từ khoá static trong oop.pdb
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.AssemblyInfo.cs
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.dll
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\refint\từ khoá static trong oop.dll
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.pdb
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\từ khoá static trong oop.genruntimeconfig.cache
+D:\Source code\visual studio\c#\OOP\từ khoá static trong oop\từ khoá static trong oop\obj\Debug\net6.0\ref\từ khoá static trong oop.dll

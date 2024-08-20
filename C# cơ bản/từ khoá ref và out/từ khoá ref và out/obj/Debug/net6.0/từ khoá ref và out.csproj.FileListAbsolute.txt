@@ -1,0 +1,28 @@
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.exe
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.deps.json
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.runtimeconfig.json
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.pdb
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.AssemblyInfo.cs
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\refint\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.pdb
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.genruntimeconfig.cache
+D:\Source code\visual studio\c#\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\ref\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.exe
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.deps.json
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.runtimeconfig.json
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\bin\Debug\net6.0\từ khoá ref và out.pdb
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\refint\từ khoá ref và out.dll
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.pdb
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\từ khoá ref và out.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# cơ bản\từ khoá ref và out\từ khoá ref và out\obj\Debug\net6.0\ref\từ khoá ref và out.dll

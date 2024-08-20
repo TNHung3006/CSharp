@@ -1,0 +1,28 @@
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.exe
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.deps.json
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.runtimeconfig.json
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.pdb
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.AssemblyInfo.cs
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\refint\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.pdb
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.genruntimeconfig.cache
+D:\Source code\visual studio\c#\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\ref\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.exe
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.deps.json
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.runtimeconfig.json
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\bin\Debug\net6.0\KDL object, dynamic và từ khoá var.pdb
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\refint\KDL object, dynamic và từ khoá var.dll
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.pdb
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\KDL object, dynamic và từ khoá var.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# cơ bản\KDL object, dynamic và từ khoá var\KDL object, dynamic và từ khoá var\obj\Debug\net6.0\ref\KDL object, dynamic và từ khoá var.dll

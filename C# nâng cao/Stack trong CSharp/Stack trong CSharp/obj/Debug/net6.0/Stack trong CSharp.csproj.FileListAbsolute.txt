@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\bin\Debug\net6.0\Stack trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\bin\Debug\net6.0\Stack trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\bin\Debug\net6.0\Stack trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\bin\Debug\net6.0\Stack trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\bin\Debug\net6.0\Stack trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\refint\Stack trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\Stack trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Stack trong CSharp\Stack trong CSharp\obj\Debug\net6.0\ref\Stack trong CSharp.dll

@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\bin\Debug\net6.0\Generic trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\bin\Debug\net6.0\Generic trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\bin\Debug\net6.0\Generic trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\bin\Debug\net6.0\Generic trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\bin\Debug\net6.0\Generic trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\refint\Generic trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\Generic trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Generic trong CSharp\Generic trong CSharp\obj\Debug\net6.0\ref\Generic trong CSharp.dll

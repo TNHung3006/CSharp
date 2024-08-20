@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\OOP\Class\Class\bin\Debug\net6.0\Class.exe
+D:\Source code\visual studio\c#\OOP\Class\Class\bin\Debug\net6.0\Class.deps.json
+D:\Source code\visual studio\c#\OOP\Class\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+D:\Source code\visual studio\c#\OOP\Class\Class\bin\Debug\net6.0\Class.dll
+D:\Source code\visual studio\c#\OOP\Class\Class\bin\Debug\net6.0\Class.pdb
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.dll
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\refint\Class.dll
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.pdb
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
+D:\Source code\visual studio\c#\OOP\Class\Class\obj\Debug\net6.0\ref\Class.dll

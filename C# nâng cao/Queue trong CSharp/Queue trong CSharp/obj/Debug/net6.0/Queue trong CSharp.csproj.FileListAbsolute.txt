@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\bin\Debug\net6.0\Queue trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\bin\Debug\net6.0\Queue trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\bin\Debug\net6.0\Queue trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\bin\Debug\net6.0\Queue trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\bin\Debug\net6.0\Queue trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\refint\Queue trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\Queue trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Queue trong CSharp\Queue trong CSharp\obj\Debug\net6.0\ref\Queue trong CSharp.dll

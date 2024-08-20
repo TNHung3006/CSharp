@@ -1,0 +1,28 @@
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.exe
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.deps.json
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.runtimeconfig.json
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.dll
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.pdb
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.AssemblyInfo.cs
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.dll
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\refint\Mang1chieu.dll
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.pdb
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.genruntimeconfig.cache
+D:\Source code\visual studio\c#\Mang1chieu\Mang1chieu\obj\Debug\net6.0\ref\Mang1chieu.dll
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.exe
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.deps.json
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.runtimeconfig.json
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.dll
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\bin\Debug\net6.0\Mang1chieu.pdb
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.dll
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\refint\Mang1chieu.dll
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.pdb
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\Mang1chieu.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# cơ bản\Mang1chieu\Mang1chieu\obj\Debug\net6.0\ref\Mang1chieu.dll

@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\bin\Debug\net6.0\mảng nhiều chiều.exe
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\bin\Debug\net6.0\mảng nhiều chiều.deps.json
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\bin\Debug\net6.0\mảng nhiều chiều.runtimeconfig.json
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\bin\Debug\net6.0\mảng nhiều chiều.dll
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\bin\Debug\net6.0\mảng nhiều chiều.pdb
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.AssemblyInfo.cs
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.dll
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\refint\mảng nhiều chiều.dll
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.pdb
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\mảng nhiều chiều.genruntimeconfig.cache
+D:\Source code\visual studio\c#\mảng nhiều chiều\mảng nhiều chiều\obj\Debug\net6.0\ref\mảng nhiều chiều.dll

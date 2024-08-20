@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\bin\Debug\net6.0\kieudulieu.exe
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\bin\Debug\net6.0\kieudulieu.deps.json
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\bin\Debug\net6.0\kieudulieu.runtimeconfig.json
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\bin\Debug\net6.0\kieudulieu.dll
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\bin\Debug\net6.0\kieudulieu.pdb
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.AssemblyInfo.cs
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.dll
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\refint\kieudulieu.dll
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.pdb
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\kieudulieu.genruntimeconfig.cache
+D:\Source code\visual studio\c#\kieudulieu\kieudulieu\obj\Debug\net6.0\ref\kieudulieu.dll
