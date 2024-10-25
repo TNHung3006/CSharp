@@ -1,59 +1,83 @@
 ﻿//===========================================================================\\
 
 //Ép kiểu là gì?
-    //Ép kiểu là biến đổi dữ liệu thuộc kiểu dữ liệu này thành kiểu dữ liệu khác.
+//Ép kiểu là biến đổi dữ liệu thuộc kiểu dữ liệu này thành kiểu dữ liệu khác.
 //Tại sao phải ép kiểu?
-    //Để chuyển dữ liệu sang một kiểu dữ liệu mong muốn phục vụ cho việc thao tác xử lý.
-    //Đưa dữ liệu về định dạng mà mình mong muốn (ví dụ chuyển kiểu ngày tháng bên Mỹ sang dạng ngày tháng bên Việt Nam).
+//Để chuyển dữ liệu sang một kiểu dữ liệu mong muốn phục vụ cho việc thao tác xử lý.
+//Đưa dữ liệu về định dạng mà mình mong muốn (ví dụ chuyển kiểu ngày tháng bên Mỹ sang dạng ngày tháng bên Việt Nam).
 
 //Trong C#, ép kiểu có 4 loại:
-    //Chuyển đổi kiểu ngầm định (implicit).
-    //Chuyển đổi kiểu tường minh (explicit).
-    //Sử dụng phương thức, lớp hỗ trợ sẵn:
-    //Dùng phương thức Parse(), TryParse().
-    //Dùng lớp hỗ trợ sẵn (Convert).
-    //Người dùng tự định nghĩa kiểu chuyển đổi.
+//Chuyển đổi kiểu ngầm định (implicit).
+//Chuyển đổi kiểu tường minh (explicit).
+//Sử dụng phương thức, lớp hỗ trợ sẵn:
+//Dùng phương thức Parse(), TryParse().
+//Dùng lớp hỗ trợ sẵn (Convert).
+//Người dùng tự định nghĩa kiểu chuyển đổi.
 
 //Chuyển đổi kiểu ngầm định (implicit)
-    //Việc chuyển đổi này được thực hiện bởi trình biên dịch và chúng ta không cần tác động gì.
+//Việc chuyển đổi này được thực hiện bởi trình biên dịch và chúng ta không cần tác động gì.
 
 //Được thực hiện khi chuyển kiểu từ
-    //Kiểu dữ liệu nhỏ sang kiểu dữ liệu lớn hơn (xem lại bài KIỂU DỮ LIỆU TRONG C#)
-    //Chuyển từ lớp con đến lớp cha (khái niệm lớp con lớp cha sẽ được trình bày trong bài TÍNH KẾ THỪA TRONG C#).
+//Kiểu dữ liệu nhỏ sang kiểu dữ liệu lớn hơn (xem lại bài KIỂU DỮ LIỆU TRONG C#)
+//Chuyển từ lớp con đến lớp cha (khái niệm lớp con lớp cha sẽ được trình bày trong bài TÍNH KẾ THỪA TRONG C#).
 
 //Chuyển đổi kiểu tường minh (explicit)
-    //Chuyển đổi kiểu tường minh là việc chuyển kiểu một cách rõ ràng và dùng từ khóa chỉ định chứ không dùng phương thức.
-    //Một số đặc điểm của chuyển đổi kiểu tường minh:
-    //Thường được dùng để chuyển đổi giữa các kiểu dữ liệu có tính chất tương tự nhau (thường thì với số).
-    //Hỗ trợ trong việc boxing và unboxing đối tượng (sẽ được trình bày trong bài KIỂU DỮ LIỆU OBJECT TRONG C#).
-    //Cú pháp ngắn gọn do không sử dụng phương thức.
-    //Chỉ khi chúng ta biết rõ biến đó thuộc kiểu dữ liệu nào mới thực hiện chuyển đổi. Ngược lại có thể lỗi khi chạy chương trình.
-    //Ta có thực hiện ép kiểu dữ liệu lớn hơn về kiểu dữ liệu nhỏ hơn mà không báo lỗi.
-    //Nếu dữ liệu cần ép kiểu vượt quá miền giá trị của kiểu dữ liệu muốn ép kiểu về thì 
-    //chương trình sẽ tự cắt bit cho phù hợp với khả năng chứa kiểu dữ liệu đó (cắt từ bên trái qua).
+//Chuyển đổi kiểu tường minh là việc chuyển kiểu một cách rõ ràng và dùng từ khóa chỉ định chứ không dùng phương thức.
+//Một số đặc điểm của chuyển đổi kiểu tường minh:
+//Thường được dùng để chuyển đổi giữa các kiểu dữ liệu có tính chất tương tự nhau (thường thì với số).
+//Hỗ trợ trong việc boxing và unboxing đối tượng (sẽ được trình bày trong bài KIỂU DỮ LIỆU OBJECT TRONG C#).
+//Cú pháp ngắn gọn do không sử dụng phương thức.
+//Chỉ khi chúng ta biết rõ biến đó thuộc kiểu dữ liệu nào mới thực hiện chuyển đổi. Ngược lại có thể lỗi khi chạy chương trình.
+//Ta có thực hiện ép kiểu dữ liệu lớn hơn về kiểu dữ liệu nhỏ hơn mà không báo lỗi.
+//Nếu dữ liệu cần ép kiểu vượt quá miền giá trị của kiểu dữ liệu muốn ép kiểu về thì 
+//chương trình sẽ tự cắt bit cho phù hợp với khả năng chứa kiểu dữ liệu đó (cắt từ bên trái qua).
 
 //Sử dụng phương thức, lớp hỗ trợ sẵn
-//Phương thức Parse(), TryParse()
+//Phương thức Parse(), TryParse(), Implicit(Convert).
 
 //Cú pháp:Parse()
-    //<kiểu dữ liệu>.Parse(<dữ liệu cần chuyển đổi>);
-    //<kiểu dữ liệu> là kiểu dữ liệu cơ bản mình muốn chuyển đổi sang.
-    //<dữ liệu cần chuyển đổi> là dữ liệu thuộc kiểu chuỗi, có thể là biến kiểu chuỗi hoặc giá trị hằng kiểu chuỗi (giá trị hằng đã giải thích trong bài HẰNG TRONG C#).
+//<kiểu dữ liệu>.Parse(<dữ liệu cần chuyển đổi>);
+//<kiểu dữ liệu> là kiểu dữ liệu cơ bản mình muốn chuyển đổi sang.
+//<dữ liệu cần chuyển đổi> là dữ liệu thuộc kiểu chuỗi, có thể là biến kiểu chuỗi hoặc giá trị hằng kiểu chuỗi (giá trị hằng đã giải thích trong bài HẰNG TRONG C#).
 //Ý nghĩa:
-    //Chuyển đổi một chuỗi sang một kiểu dữ liệu cơ bản tương ứng.
-    //Phương thức trả về giá trị kết quả chuyển kiểu nếu chuyển kiểu thành công. Ngược lại sẽ báo lỗi chương trình.
+//Chuyển đổi một chuỗi sang một kiểu dữ liệu cơ bản tương ứng.
+//Phương thức trả về giá trị kết quả chuyển kiểu nếu chuyển kiểu thành công. Ngược lại sẽ báo lỗi chương trình.
 
 //Cú pháp:TryParse()
-    //<kiểu dữ liệu>.TryParse(<dữ liệu cần chuyển đổi>, out <biến chứa kết quả>);
-    //<kiểu dữ liệu> là kiểu dữ liệu cơ bản mình muốn chuyển đổi sang.
-    //<dữ liệu cần chuyển đổi> là dữ liệu thuộc kiểu chuỗi, có thể là biến kiểu chuỗi hoặc giá trị hằng kiểu chuỗi.
-    //<biến chứa kết quả> là biến mà bạn muốn lưu giá trị kết quả sau khi chuyển kiểu thành công.
-    //Từ khóa out là từ khóa bắt buộc phải có, ý nghĩa của từ khóa này sẽ được trình bày chi tiết trong bài HÀM TRONG C#.
+//<kiểu dữ liệu>.TryParse(<dữ liệu cần chuyển đổi>, out <biến chứa kết quả>);
+//<kiểu dữ liệu> là kiểu dữ liệu cơ bản mình muốn chuyển đổi sang.
+//<dữ liệu cần chuyển đổi> là dữ liệu thuộc kiểu chuỗi, có thể là biến kiểu chuỗi hoặc giá trị hằng kiểu chuỗi.
+//<biến chứa kết quả> là biến mà bạn muốn lưu giá trị kết quả sau khi chuyển kiểu thành công.
+//Từ khóa out là từ khóa bắt buộc phải có, ý nghĩa của từ khóa này sẽ được trình bày chi tiết trong bài HÀM TRONG C#.
 //Ý nghĩa:
-    //Chuyển một chuỗi sang một kiểu dữ liệu cơ bản tương ứng.
-    //Phương thức sẽ trả về true nếu chuyển kiểu thành công và giá trị kết quả chuyển kiểu sẽ lưu vào <biến chứa kết quả>.
-    //Ngược lại sẽ trả về false và <biến chứa kết quả> sẽ mang giá trị 0.
+//Chuyển một chuỗi sang một kiểu dữ liệu cơ bản tương ứng.
+//Phương thức sẽ trả về true nếu chuyển kiểu thành công và giá trị kết quả chuyển kiểu sẽ lưu vào <biến chứa kết quả>.
+//Ngược lại sẽ trả về false và <biến chứa kết quả> sẽ mang giá trị 0.
+
+//Cú pháp: Implicit(Convert)
+//Convert.<tên phương thức>(biến chứa kết quả);
+// Tên phương thức và ý nghĩa
+
+//ToBoolean: Chuyển đổi về True/False nếu thành công.
+
+//ToChar: Chuyển đổi về char nếu thành công.
+
+//ToByte: Chuyển đổi về byte nếu thành công.
+
+//ToDateTime: Chuyển đồi về dạng có cấu trúc date time nếu thành công.
+
+//ToDecimal: Chuyển đồi về dạng thập phân nếu thành công.
+
+//ToDouble: Chuyển đổi về double nếu thành công.
+
+//ToString: Chuyển đổi về string nếu thành công.
+
+//ToInt32: Chuyển đồi về int nếu thành công.
+
+
 //===========================================================================\\
+
+using System.Text;
 
 namespace epkieuc_
 {
@@ -90,7 +114,7 @@ namespace epkieuc_
             float f = 1.0f*h / t;
             Console.WriteLine(" e = {0} \n f = {1} \n m = {2}", e, f, m);
 #endif
-#if true // ép kiểu Parse, TryParce
+#if false // ép kiểu Parse, TryParce
 
             // ép kiểu Parse
             string s = "10";
@@ -112,6 +136,13 @@ namespace epkieuc_
             Console.Write(isSuccess == true ? " Success !" : " Failed !"); // Tương tự như trên
             Console.WriteLine(" Result = " + Result); // Tương tự như trên
 
+#endif
+#if true    // ép kiểu convert
+            Console.OutputEncoding = Encoding.Unicode;  //dùng để viết có dấu
+            Console.Write("Nhập tuổi của bạn: ");
+            string strcon = Console.ReadLine();
+            int Age = Convert.ToInt32(strcon);
+            Console.WriteLine("tuổi của bạn là: " + Age + "\n" + "kiểu dữ liệu trả về: " + Age.GetType());
 #endif
 #if false   //VD bài tập
             int A, B; // Biến chứa giá trị 2 số vừa nhập vào (kiểu số)

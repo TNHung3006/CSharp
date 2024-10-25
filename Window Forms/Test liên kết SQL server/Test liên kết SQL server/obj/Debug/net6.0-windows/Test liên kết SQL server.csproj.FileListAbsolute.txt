@@ -1,0 +1,24 @@
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\Test liên kết SQL server.exe
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\Test liên kết SQL server.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\Test liên kết SQL server.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\Test liên kết SQL server.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\Test liên kết SQL server.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.csproj.AssemblyReference.cache
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test_liên_kết_SQL_server.Form1.resources
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.csproj.GenerateResource.cache
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.csproj.CopyComplete
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\refint\Test liên kết SQL server.dll
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\Test liên kết SQL server.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Test liên kết SQL server\Test liên kết SQL server\obj\Debug\net6.0-windows\ref\Test liên kết SQL server.dll

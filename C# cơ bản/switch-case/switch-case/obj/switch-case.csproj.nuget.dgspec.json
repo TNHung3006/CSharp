@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source code\\visual studio\\c#\\switch-case\\switch-case\\switch-case.csproj": {}
+    "D:\\Source code\\visual studio\\c#\\C# cơ bản\\switch-case\\switch-case\\switch-case.csproj": {}
   },
   "projects": {
-    "D:\\Source code\\visual studio\\c#\\switch-case\\switch-case\\switch-case.csproj": {
+    "D:\\Source code\\visual studio\\c#\\C# cơ bản\\switch-case\\switch-case\\switch-case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source code\\visual studio\\c#\\switch-case\\switch-case\\switch-case.csproj",
+        "projectUniqueName": "D:\\Source code\\visual studio\\c#\\C# cơ bản\\switch-case\\switch-case\\switch-case.csproj",
         "projectName": "switch-case",
-        "projectPath": "D:\\Source code\\visual studio\\c#\\switch-case\\switch-case\\switch-case.csproj",
+        "projectPath": "D:\\Source code\\visual studio\\c#\\C# cơ bản\\switch-case\\switch-case\\switch-case.csproj",
         "packagesPath": "C:\\Users\\Admin-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Source code\\visual studio\\c#\\switch-case\\switch-case\\obj\\",
+        "outputPath": "D:\\Source code\\visual studio\\c#\\C# cơ bản\\switch-case\\switch-case\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

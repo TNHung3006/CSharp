@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\bin\Debug\net6.0\Event chuẩn trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\bin\Debug\net6.0\Event chuẩn trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\bin\Debug\net6.0\Event chuẩn trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\bin\Debug\net6.0\Event chuẩn trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\bin\Debug\net6.0\Event chuẩn trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\refint\Event chuẩn trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\Event chuẩn trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Event chuẩn trong CSharp\Event chuẩn trong CSharp\obj\Debug\net6.0\ref\Event chuẩn trong CSharp.dll

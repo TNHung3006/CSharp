@@ -126,16 +126,18 @@ namespace từ_khoá_static_trong_oop
 {
 #if true    // VD biến tĩnh
     class Cat
-    {
+    {   
+        //field
         private int weight;
-            //Khai báo property tương ứng với thuộc tính.
-            //Mặc dù trong bài không sử dụng tới nhưng nhắc để nhớ tuân thủ tính đóng gói.
+        private int height;
+        //Khai báo property tương ứng với thuộc tính.
+        //Mặc dù trong bài không sử dụng tới nhưng nhắc để nhớ tuân thủ tính đóng gói.
         public int Weight
         {
             get { return weight; }
             set { weight = value; }
         }
-        private int height;
+        
         public int Height
         {
             get { return height; }
@@ -201,7 +203,7 @@ namespace từ_khoá_static_trong_oop
         public static double Giaithua(int a) 
         {
             int b = 1;
-            for (int i = 1; i < a; i++)
+            for (int i = 1; i <= a; i++)
             {
                 b *= i;
             }

@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\bin\Debug\net6.0\event với delegate trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\bin\Debug\net6.0\event với delegate trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\bin\Debug\net6.0\event với delegate trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\bin\Debug\net6.0\event với delegate trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\bin\Debug\net6.0\event với delegate trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\refint\event với delegate trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\event với delegate trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\event với delegate trong CSharp\event với delegate trong CSharp\obj\Debug\net6.0\ref\event với delegate trong CSharp.dll

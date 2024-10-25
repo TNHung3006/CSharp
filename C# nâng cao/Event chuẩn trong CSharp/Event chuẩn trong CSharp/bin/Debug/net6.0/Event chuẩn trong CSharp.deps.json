@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Event chuẩn trong CSharp/1.0.0": {
+        "runtime": {
+          "Event chuẩn trong CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event chuẩn trong CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

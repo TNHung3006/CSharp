@@ -82,6 +82,9 @@ namespace KDL_object__dynamic_và_từ_khoá_var
             // Khai báo đúng!
             var varBool = true;
             var varint = 730;
+            var t = "tran ngoc hung";
+            //gettype dùng để láy ra kiểu dữ liệu của nó
+            Console.WriteLine("t co kieu du lieu la: " + t.GetType());
 
             //VD
             /* Vì biến StringVariable được khởi tạo giá trị kiểu chuỗi 

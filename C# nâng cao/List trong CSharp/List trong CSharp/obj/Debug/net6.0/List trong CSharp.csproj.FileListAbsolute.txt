@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\bin\Debug\net6.0\List trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\bin\Debug\net6.0\List trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\bin\Debug\net6.0\List trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\bin\Debug\net6.0\List trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\bin\Debug\net6.0\List trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\refint\List trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\List trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\List trong CSharp\List trong CSharp\obj\Debug\net6.0\ref\List trong CSharp.dll

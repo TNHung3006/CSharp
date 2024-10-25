@@ -1,0 +1,14 @@
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\bin\Debug\net6.0\Multi Threading trong CSharp.exe
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\bin\Debug\net6.0\Multi Threading trong CSharp.deps.json
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\bin\Debug\net6.0\Multi Threading trong CSharp.runtimeconfig.json
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\bin\Debug\net6.0\Multi Threading trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\bin\Debug\net6.0\Multi Threading trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.AssemblyInfoInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.AssemblyInfo.cs
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.csproj.CoreCompileInputs.cache
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\refint\Multi Threading trong CSharp.dll
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.pdb
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\Multi Threading trong CSharp.genruntimeconfig.cache
+D:\Source code\visual studio\c#\C# nâng cao\Multi Threading trong CSharp\Multi Threading trong CSharp\obj\Debug\net6.0\ref\Multi Threading trong CSharp.dll
