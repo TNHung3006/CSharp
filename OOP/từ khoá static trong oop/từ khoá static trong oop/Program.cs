@@ -223,9 +223,8 @@ namespace từ_khoá_static_trong_oop
     {
         static void Main(string[] args)
         {
-            int x;
             Console.WriteLine("ket qua cua giai thua: ");
-            Console.WriteLine(tinhtoan.Giaithua(x = int.Parse(Console.ReadLine())));
+            Console.WriteLine(tinhtoan.Giaithua(int.Parse(Console.ReadLine())));
             Console.WriteLine("ket qua cua luy thua: ");
             Console.WriteLine(tinhtoan.LuyThua(3,3));
         }
